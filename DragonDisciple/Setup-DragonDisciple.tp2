@@ -3,9 +3,14 @@
 
 BACKUP ~DragonDisciple/backup~
 AUTHOR ~hybridgame~
-VERSION "2019.06.10"
+VERSION "2019.06.11"
 
-LANGUAGE ~Korean~  ~Korean~ ~DragonDisciple/Language/setupko.tra~
+LANGUAGE ~English~
+         ~English~
+         ~DragonDisciple/Language/setupen.tra~
+LANGUAGE ~Korean~
+         ~Korean~
+         ~DragonDisciple/Language/setupko.tra~
 
 BEGIN "Dragon Disciple kit fix"
 REQUIRE_PREDICATE GAME_IS ~bgee bg2ee~ @3

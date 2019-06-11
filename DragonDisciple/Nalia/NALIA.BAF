@@ -13,7 +13,7 @@ IF
         !HasItem("NPRING02",Myself)
         !NumItemsParty("NPRING02",1)
     InParty(Myself)
-    SetGlobal("DragonDiscipleNalia","GLOBAL",1)
+    Global("DragonDiscipleNalia","GLOBAL",1)
 THEN
     RESPONSE #100
         SetInterrupt(FALSE)
