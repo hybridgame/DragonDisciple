@@ -2,6 +2,24 @@
 
 ## English
 
+    DRAGON DISCIPLE: Dragon Disciples are powerful Sorcerers with dragons' blood somewhere in their lineage. Their natural magical talents bring out their draconic heritage, allowing them to cast powerful magical spells and exhibit dragon-like abilities.
+
+    Advantages:
+    - 1st level: +1 bonus to AC. +1 bonus to Attack per round.
+    - 4th level: Gains 25% innate Fire Resistance.
+    - 5th level: +1 bonus to AC and Strength.
+    - 8th level: Innate Fire Resistance rises to 50%.
+    - 10th level: +1 bonus to AC and Intelligence.
+    - 12th level: Innate Fire Resistance rises to 75%.
+    - 15th level: +1 bonus to AC and Constitution.
+    - 17th level: +1 bonus to Strength.
+    - 18th level: +2 bonus to Movement rate.
+    - 20th level: +2 bonus to AC and Strength, +1 bonus to Charisma, immunity to blindness, unconsciousness, hold and fire damage.
+    - Hit Die: d6
+
+    Disadvantages:
+    - May cast one fewer spell per level per day.
+
 ## Korean
 
     드래곤 디사이플: 드래곤 디사이플은 드래곤의 혈통을 이어받은 강력한 소서러다. 드래곤의 혈통을 통해 물려받은 그들의 선천적인 마법적 재능은, 그들로 하여금 강력한 마법의 주문을 시전할 수 있게 해 주고, 드래곤과 유사한 능력을 부여한다.
