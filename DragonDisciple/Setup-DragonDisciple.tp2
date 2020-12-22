@@ -30,10 +30,10 @@ BEGIN "Dragon Disciple Nalia"
 REQUIRE_PREDICATE GAME_IS ~bg2ee~ @2
 
 COPY ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA8.cre~
-COPY ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA10.cre~
-COPY ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA11.cre~
-COPY ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA13.cre~
-COPY ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA15.cre~
+     ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA10.cre~
+     ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA11.cre~
+     ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA13.cre~
+     ~DragonDisciple/Nalia/NALIA.cre~ ~override/NALIA15.cre~
 
 COPY ~DragonDisciple/Nalia/NPRING02.itm~ ~override~
 
